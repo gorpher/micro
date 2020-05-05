@@ -16,6 +16,7 @@ require (
 	github.com/google/uuid v1.1.1
 	github.com/gorilla/handlers v1.4.2
 	github.com/gorilla/mux v1.7.3
+	github.com/gorpher/go-plugins/registry/eurekav1/v2 v2.0.0-20200503100039-27f51dac189a
 	github.com/micro/cli/v2 v2.1.2
 	github.com/micro/go-micro/v2 v2.5.1-0.20200501143155-08a2de1ef50a
 	github.com/miekg/dns v1.1.27
